@@ -1,0 +1,20 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/admin/adminpage/page": "app/admin/adminpage/page.js",
+  "/about/page": "app/about/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/clients/page": "app/clients/page.js",
+  "/licenses/page": "app/licenses/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/login/page": "app/login/page.js",
+  "/services/c02-fire-extinguishers/page": "app/services/c02-fire-extinguishers/page.js",
+  "/page": "app/page.js",
+  "/services/detection-system-material/page": "app/services/detection-system-material/page.js",
+  "/services/fire-detection/page": "app/services/fire-detection/page.js",
+  "/services/fire-hydrant/page": "app/services/fire-hydrant/page.js",
+  "/services/hydrant-system-material/page": "app/services/hydrant-system-material/page.js",
+  "/services/industrial-safety-equipment/page": "app/services/industrial-safety-equipment/page.js",
+  "/services/page": "app/services/page.js",
+  "/services/suppression-systems/page": "app/services/suppression-systems/page.js",
+  "/services/fire-fighting-equipments/page": "app/services/fire-fighting-equipments/page.js"
+}

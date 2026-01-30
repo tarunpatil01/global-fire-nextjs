@@ -1,0 +1,183 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-b0ec4281704a3f3a.js",
+      "static/chunks/fd9d1056-b5002fb2bcf0db01.js",
+      "static/chunks/23-9be61b10fa8fba1d.js",
+      "static/chunks/main-app-f469e7eff137cd9a.js",
+      "static/chunks/app/_not-found/page-5b0d661d478f6ef5.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-b0ec4281704a3f3a.js",
+      "static/chunks/fd9d1056-b5002fb2bcf0db01.js",
+      "static/chunks/23-9be61b10fa8fba1d.js",
+      "static/chunks/main-app-f469e7eff137cd9a.js",
+      "static/css/8a27c3c2a52a51af.css",
+      "static/chunks/aaea2bcf-331040db6205e5fa.js",
+      "static/chunks/173-963adcd50eaa4534.js",
+      "static/chunks/138-ec594ce8332a4c8e.js",
+      "static/chunks/251-e7428eb7952e3532.js",
+      "static/chunks/105-11aba1f17ab41202.js",
+      "static/chunks/175-42e0941eb325e9fc.js",
+      "static/chunks/198-d8a87de9241fed3e.js",
+      "static/chunks/app/layout-07f9e933e757ffe2.js"
+    ],
+    "/admin/adminpage/page": [
+      "static/chunks/webpack-b0ec4281704a3f3a.js",
+      "static/chunks/fd9d1056-b5002fb2bcf0db01.js",
+      "static/chunks/23-9be61b10fa8fba1d.js",
+      "static/chunks/main-app-f469e7eff137cd9a.js",
+      "static/chunks/251-e7428eb7952e3532.js",
+      "static/chunks/731-ffc4887b87b7ae65.js",
+      "static/chunks/app/admin/adminpage/page-35edef98b4d7a50e.js"
+    ],
+    "/about/page": [
+      "static/chunks/webpack-b0ec4281704a3f3a.js",
+      "static/chunks/fd9d1056-b5002fb2bcf0db01.js",
+      "static/chunks/23-9be61b10fa8fba1d.js",
+      "static/chunks/main-app-f469e7eff137cd9a.js",
+      "static/css/8a27c3c2a52a51af.css",
+      "static/chunks/aaea2bcf-331040db6205e5fa.js",
+      "static/chunks/173-963adcd50eaa4534.js",
+      "static/chunks/138-ec594ce8332a4c8e.js",
+      "static/chunks/251-e7428eb7952e3532.js",
+      "static/chunks/105-11aba1f17ab41202.js",
+      "static/chunks/175-42e0941eb325e9fc.js",
+      "static/chunks/198-d8a87de9241fed3e.js",
+      "static/chunks/app/about/page-8cffd1a3b664f2b5.js"
+    ],
+    "/contact/page": [
+      "static/chunks/webpack-b0ec4281704a3f3a.js",
+      "static/chunks/fd9d1056-b5002fb2bcf0db01.js",
+      "static/chunks/23-9be61b10fa8fba1d.js",
+      "static/chunks/main-app-f469e7eff137cd9a.js",
+      "static/css/8a27c3c2a52a51af.css",
+      "static/chunks/aaea2bcf-331040db6205e5fa.js",
+      "static/chunks/173-963adcd50eaa4534.js",
+      "static/chunks/138-ec594ce8332a4c8e.js",
+      "static/chunks/251-e7428eb7952e3532.js",
+      "static/chunks/105-11aba1f17ab41202.js",
+      "static/chunks/175-42e0941eb325e9fc.js",
+      "static/chunks/198-d8a87de9241fed3e.js",
+      "static/chunks/app/contact/page-49c88a590314d338.js"
+    ],
+    "/clients/page": [
+      "static/chunks/webpack-b0ec4281704a3f3a.js",
+      "static/chunks/fd9d1056-b5002fb2bcf0db01.js",
+      "static/chunks/23-9be61b10fa8fba1d.js",
+      "static/chunks/main-app-f469e7eff137cd9a.js",
+      "static/chunks/173-963adcd50eaa4534.js",
+      "static/chunks/app/clients/page-3714866fed186631.js"
+    ],
+    "/licenses/page": [
+      "static/chunks/webpack-b0ec4281704a3f3a.js",
+      "static/chunks/fd9d1056-b5002fb2bcf0db01.js",
+      "static/chunks/23-9be61b10fa8fba1d.js",
+      "static/chunks/main-app-f469e7eff137cd9a.js",
+      "static/chunks/app/licenses/page-3ead7e32e1322dfd.js"
+    ],
+    "/admin/page": [
+      "static/chunks/webpack-b0ec4281704a3f3a.js",
+      "static/chunks/fd9d1056-b5002fb2bcf0db01.js",
+      "static/chunks/23-9be61b10fa8fba1d.js",
+      "static/chunks/main-app-f469e7eff137cd9a.js",
+      "static/chunks/app/admin/page-db5f45f3ee4a917e.js"
+    ],
+    "/login/page": [
+      "static/chunks/webpack-b0ec4281704a3f3a.js",
+      "static/chunks/fd9d1056-b5002fb2bcf0db01.js",
+      "static/chunks/23-9be61b10fa8fba1d.js",
+      "static/chunks/main-app-f469e7eff137cd9a.js",
+      "static/css/8a27c3c2a52a51af.css",
+      "static/chunks/aaea2bcf-331040db6205e5fa.js",
+      "static/chunks/173-963adcd50eaa4534.js",
+      "static/chunks/138-ec594ce8332a4c8e.js",
+      "static/chunks/251-e7428eb7952e3532.js",
+      "static/chunks/105-11aba1f17ab41202.js",
+      "static/chunks/175-42e0941eb325e9fc.js",
+      "static/chunks/198-d8a87de9241fed3e.js",
+      "static/chunks/app/login/page-cc87f8ea996721f6.js"
+    ],
+    "/services/c02-fire-extinguishers/page": [
+      "static/chunks/webpack-b0ec4281704a3f3a.js",
+      "static/chunks/fd9d1056-b5002fb2bcf0db01.js",
+      "static/chunks/23-9be61b10fa8fba1d.js",
+      "static/chunks/main-app-f469e7eff137cd9a.js",
+      "static/chunks/173-963adcd50eaa4534.js",
+      "static/chunks/app/services/c02-fire-extinguishers/page-26b3ec08d114e431.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-b0ec4281704a3f3a.js",
+      "static/chunks/fd9d1056-b5002fb2bcf0db01.js",
+      "static/chunks/23-9be61b10fa8fba1d.js",
+      "static/chunks/main-app-f469e7eff137cd9a.js",
+      "static/chunks/aaea2bcf-331040db6205e5fa.js",
+      "static/chunks/173-963adcd50eaa4534.js",
+      "static/chunks/138-ec594ce8332a4c8e.js",
+      "static/chunks/251-e7428eb7952e3532.js",
+      "static/chunks/105-11aba1f17ab41202.js",
+      "static/chunks/app/page-67b0457cc3be42b9.js"
+    ],
+    "/services/detection-system-material/page": [
+      "static/chunks/webpack-b0ec4281704a3f3a.js",
+      "static/chunks/fd9d1056-b5002fb2bcf0db01.js",
+      "static/chunks/23-9be61b10fa8fba1d.js",
+      "static/chunks/main-app-f469e7eff137cd9a.js",
+      "static/chunks/app/services/detection-system-material/page-1eecd4553cd4ab4e.js"
+    ],
+    "/services/fire-detection/page": [
+      "static/chunks/webpack-b0ec4281704a3f3a.js",
+      "static/chunks/fd9d1056-b5002fb2bcf0db01.js",
+      "static/chunks/23-9be61b10fa8fba1d.js",
+      "static/chunks/main-app-f469e7eff137cd9a.js",
+      "static/chunks/173-963adcd50eaa4534.js",
+      "static/chunks/app/services/fire-detection/page-0d4cb5bc7bd9e212.js"
+    ],
+    "/services/fire-hydrant/page": [
+      "static/chunks/webpack-b0ec4281704a3f3a.js",
+      "static/chunks/fd9d1056-b5002fb2bcf0db01.js",
+      "static/chunks/23-9be61b10fa8fba1d.js",
+      "static/chunks/main-app-f469e7eff137cd9a.js",
+      "static/chunks/173-963adcd50eaa4534.js",
+      "static/chunks/app/services/fire-hydrant/page-3d1dd89ab3d8f967.js"
+    ],
+    "/services/hydrant-system-material/page": [
+      "static/chunks/webpack-b0ec4281704a3f3a.js",
+      "static/chunks/fd9d1056-b5002fb2bcf0db01.js",
+      "static/chunks/23-9be61b10fa8fba1d.js",
+      "static/chunks/main-app-f469e7eff137cd9a.js",
+      "static/chunks/app/services/hydrant-system-material/page-e6e0423f7b8fe354.js"
+    ],
+    "/services/industrial-safety-equipment/page": [
+      "static/chunks/webpack-b0ec4281704a3f3a.js",
+      "static/chunks/fd9d1056-b5002fb2bcf0db01.js",
+      "static/chunks/23-9be61b10fa8fba1d.js",
+      "static/chunks/main-app-f469e7eff137cd9a.js",
+      "static/chunks/173-963adcd50eaa4534.js",
+      "static/chunks/app/services/industrial-safety-equipment/page-19234170ec54a8a0.js"
+    ],
+    "/services/page": [
+      "static/chunks/webpack-b0ec4281704a3f3a.js",
+      "static/chunks/fd9d1056-b5002fb2bcf0db01.js",
+      "static/chunks/23-9be61b10fa8fba1d.js",
+      "static/chunks/main-app-f469e7eff137cd9a.js",
+      "static/chunks/138-ec594ce8332a4c8e.js",
+      "static/chunks/app/services/page-c2b7f13b5290ef88.js"
+    ],
+    "/services/suppression-systems/page": [
+      "static/chunks/webpack-b0ec4281704a3f3a.js",
+      "static/chunks/fd9d1056-b5002fb2bcf0db01.js",
+      "static/chunks/23-9be61b10fa8fba1d.js",
+      "static/chunks/main-app-f469e7eff137cd9a.js",
+      "static/chunks/173-963adcd50eaa4534.js",
+      "static/chunks/app/services/suppression-systems/page-64954fa1a45dd0c4.js"
+    ],
+    "/services/fire-fighting-equipments/page": [
+      "static/chunks/webpack-b0ec4281704a3f3a.js",
+      "static/chunks/fd9d1056-b5002fb2bcf0db01.js",
+      "static/chunks/23-9be61b10fa8fba1d.js",
+      "static/chunks/main-app-f469e7eff137cd9a.js",
+      "static/chunks/app/services/fire-fighting-equipments/page-e845adede49a1ad4.js"
+    ]
+  }
+}
